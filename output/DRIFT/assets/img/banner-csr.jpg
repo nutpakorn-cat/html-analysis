@@ -1,0 +1,841 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="th" lang="th">
+	<head>
+
+		<link rel="icon" href="/fav-icon.ico" type="image/x-icon" />
+		<meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+		<title>:: ไม่พบหน้านี้ ::</title>
+				
+				<script type="text/javascript" src="/js/qptc_1407288053_html5.js"></script>
+<script type="text/javascript" src="/js/qptc_1407288053_lastest_jquery.js"></script>
+<script type="text/javascript" src="/js/qptc_1407288053_common.js"></script>
+<script type="text/javascript" src="/js/qptc_1407288053_cp_login.js"></script>
+<script type="text/javascript" src="/js/qptc_1407288053_jquery.lightboxMedia.js"></script>
+<script type="text/javascript" src="/js/qptc_1407288053_lastest_jquery_ui.js"></script>
+<link type="text/css" rel="stylesheet" href="/css/qptc_1407288053_style.css" />
+		                <script type="text/javascript">
+                if (window.top!=window.self) {
+                    window.top.location=window.self.location;
+                }                    
+                </script>
+                		<!-- Google Analytics -->
+		<script type="text/javascript">
+			
+		  var _gaq = _gaq || [];
+		  var pluginUrl =  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+		  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+		  _gaq.push(['_setAccount', 'UA-10478864-2']);
+		  _gaq.push(['_setDomainName', 'pantip.com']);
+		  _gaq.push(['_trackPageview']);
+		  _gaq.push(['_setCustomVar', 1, 'User Type', 'Visitor', 3]);
+
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+				
+		
+		
+
+			</head>
+	<body class="samgee" id="main-body-content">
+		<!-- ########## start header clone ########## -->
+		<header class="fixed-header clone">	
+<div class="fluid-width">
+			<div class="clone-logo"><a href="http://pantip.com/"><img class="pantip-logo" alt="Pantip.com-Learn, Share &amp; Fun" src="http://ptcdn.info/images/pantip-new-logo-min.png"></a>
+			</div>
+
+		<ul class="global-navigate">
+			<li><a href="http://pantip.com/">หน้าแรก<em></em></a></li>
+			<li id="flip-room"><a href="javascript:void(0);">เลือกห้อง&nbsp;<small>▼</small></a></li>
+			<li><a href="http://pantip.com/tags">แท็ก</a></li>
+			<li id="flip-about-pantip"><a href="javascript:void(0);">อื่นๆ&nbsp;<small>▼</small></a></li>
+		</ul>
+
+			<ul class="my-menu-clone">
+				<li><a class="higher" title="ตั้งกระทู้" href="http://pantip.com/forum/new_topic"><span class="icon icon-new-post"></span><em></em></a></li>
+										<li><a id="login-btn" class="higher" href="http://pantip.com/login">เข้าสู่ระบบ / สมัครสมาชิก</a></li>
+							</ul>
+			
+		<!-- ########## end menu clone ########## -->
+		
+			<div class="clone-google-search">
+				<form action="http://search.pantip.com/ss" target="_blank">
+					<div>
+						<input type="hidden" name="s" value="a" />
+						<input type="hidden" name="nms" value="1"/>
+						<input type="hidden" name="sa" value="Smart Search"/>
+						<input type="text" name="q" size="55" id="search-box-float" class="smart-search-input" placeholder="Smart Search"/>			
+					</div>
+				</form>
+			</div>
+<!-- ########## Start Room Menu ########## -->
+			<div id="panel1">
+				<div class="container-outer-z">
+				<div class="submenu-room">
+                <!-- ########## START column 1 ########## -->
+					<ul class="submenu-room-list">
+						<li class="submenu-room-item">
+							<a href="/forum/food" title="ร้านอาหาร สูตรอาหาร อาหารคาว อาหารหวาน เบเกอรี่ ไอศกรีม">
+								<em class="iconwrap"><span class="icon-roommenu icon-food"></span></em>
+								<span class="title">ก้นครัว</span><br/>
+								<span class="desc">ร้านอาหาร สูตรอาหาร อาหารคาว อาหารหวาน เบเกอรี่ ไอศกรีม</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/greenzone" title="อนุรักษ์สิ่งแวดล้อม อนุรักษ์พลังงาน Green Living การออกแบบเพื่อสิ่งแวดล้อม ผลิตภัณฑ์รักษ์โลก เกษตรอินทรีย์">
+								<em class="iconwrap"><span class="icon-roommenu icon-greenzone"></span></em>
+								<span class="title">กรีนโซน</span><br/>
+								<span class="desc">อนุรักษ์สิ่งแวดล้อม อนุรักษ์พลังงาน Green Living การออกแบบเพื่อสิ่งแวดล้อม ผลิตภัณฑ์รักษ์โลก เกษตรอินทรีย์</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/camera" title="กล้องถ่ายรูป กล้อง DSLR กล้องวิดีโอ เทคนิคการถ่ายรูป">
+								<em class="iconwrap"><span class="icon-roommenu icon-camera"></span></em>
+								<span class="title">กล้อง</span><br/>
+								<span class="desc">กล้องถ่ายรูป กล้อง DSLR กล้องวิดีโอ เทคนิคการถ่ายรูป</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/cartoon" title="การ์ตูนญี่ปุ่น การ์ตูนไทย การ์ตูนฝรั่ง อนิเมะ วาดการ์ตูน ของสะสมจากการ์ตูน คอสเพลย์">
+								<em class="iconwrap"><span class="icon-roommenu icon-cartoon"></span></em>
+								<span class="title">การ์ตูน</span><br/>
+								<span class="desc">การ์ตูนญี่ปุ่น การ์ตูนไทย การ์ตูนฝรั่ง อนิเมะ วาดการ์ตูน ของสะสมจากการ์ตูน คอสเพลย์</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/gallery" title="ภาพถ่ายบุคคล ภาพถ่ายทิวทัศน์ ภาพถ่ายมาโคร">
+								<em class="iconwrap"><span class="icon-roommenu icon-gallery"></span></em>
+								<span class="title">แกลเลอรี่</span><br/>
+								<span class="desc">ภาพถ่ายบุคคล ภาพถ่ายทิวทัศน์ ภาพถ่ายมาโคร</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/klaibann" title="เรียนต่อต่างประเทศ ทำงานต่างประเทศ วีซ่า">
+								<em class="iconwrap"><span class="icon-roommenu icon-klaiban"></span></em>
+								<span class="title">ไกลบ้าน</span><br/>
+								<span class="desc">เรียนต่อต่างประเทศ ทำงานต่างประเทศ วีซ่า</span>
+							</a>
+						</li>
+						<li class="submenu-room-item" title="สัตว์เลี้ยง สุนัข แมว ต้นไม้ จัดสวน ของสะสม งานฝีมือ เกษตรกรรม">
+							<a href="/forum/jatujak">
+								<em class="iconwrap"><span class="icon-roommenu icon-pet"></span></em>
+								<span class="title">จตุจักร</span><br/>
+								<span class="desc">สัตว์เลี้ยง สุนัข แมว ต้นไม้ จัดสวน ของสะสม งานฝีมือ เกษตรกรรม</span>
+							</a>
+						</li>
+ 
+					</ul><!-- ########## END column 1 ########## -->
+                    <!-- ########## START column 2 ########## -->
+					<ul class="submenu-room-list space">
+						<li class="submenu-room-item" title="นักร้องนักดนตรี เพลง เครื่องดนตรี คอนเสิร์ต มิวสิควิดีโอ">
+							<a href="/forum/chalermkrung">
+								<em class="iconwrap"><span class="icon-roommenu icon-music"></span></em>
+								<span class="title">เฉลิมกรุง</span><br/>
+								<span class="desc">นักร้องนักดนตรี เพลง เครื่องดนตรี คอนเสิร์ต มิวสิควิดีโอ</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/chalermthai" title="ภาพยนตร์ ดาราภาพยนตร์ ค่ายหนัง เทศกาลหนัง หนังสั้น">
+								<em class="iconwrap"><span class="icon-roommenu icon-film"></span></em>
+								<span class="title">เฉลิมไทย</span><br/>
+								<span class="desc">ภาพยนตร์ ดาราภาพยนตร์ ค่ายหนัง เทศกาลหนัง หนังสั้น</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/family" title="ครอบครัว ตั้งครรภ์ ตั้งชื่อลูก การเลี้ยงลูก การสอนลูก">
+								<em class="iconwrap"><span class="icon-roommenu icon-family"></span></em>
+								<span class="title">ชานเรือน</span><br/>
+								<span class="desc">ครอบครัว ตั้งครรภ์ ตั้งชื่อลูก การเลี้ยงลูก การสอนลูก</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/home" title="บ้าน คอนโดมิเนียม ตกแต่งบ้าน เฟอร์นิเจอร์ เครื่องใช้ไฟฟ้า เครื่องครัว">
+								<em class="iconwrap"><span class="icon-roommenu icon-home"></span></em>
+								<span class="title">ชายคา</span><br/>
+								<span class="desc">บ้าน คอนโดมิเนียม ตกแต่งบ้าน เฟอร์นิเจอร์ เครื่องใช้ไฟฟ้า เครื่องครัว</span>
+							</a>
+						</li>
+				<li class="submenu-room-item">
+							<a href="/forum/siliconvalley" title="คอมมือใหม่ อินเทอร์เน็ต ซอฟต์แวร์ ฮาร์ดแวร์ เกม เขียนโปรแกรม Gadget">
+								<em class="iconwrap"><span class="icon-roommenu icon-silicon"></span></em>
+								<span class="title">ซิลิคอนวัลเลย์</span><br/>
+								<span class="desc">คอมมือใหม่ อินเทอร์เน็ต ซอฟต์แวร์ ฮาร์ดแวร์ เกม เขียนโปรแกรม Gadget</span>
+							</a>
+						</li>
+							<li class="submenu-room-item">
+							<a href="/forum/beauty" title="เครื่องสำอาง เสริมสวย แฟชั่น เครื่องประดับ ลดความอ้วน">
+								<em class="iconwrap"><span class="icon-roommenu icon-beauty"></span></em>
+								<span class="title">โต๊ะเครื่องแป้ง</span><br/>
+								<span class="desc">เครื่องสำอาง เสริมสวย แฟชั่น เครื่องประดับ ลดความอ้วน</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/writer" title="แต่งนิยาย เรื่องสั้น กลอน นิทาน">
+								<em class="iconwrap"><span class="icon-roommenu icon-writer"></span></em>
+								<span class="title">ถนนนักเขียน</span><br/>
+								<span class="desc">แต่งนิยาย เรื่องสั้น กลอน นิทาน</span>
+							</a>
+						</li>
+ 
+					</ul><!-- ########## END column 2 ########## -->
+                    <!-- ########## START column 3 ########## -->
+					<ul class="submenu-room-list">
+						<li class="submenu-room-item">
+							<a href="/forum/blueplanet"title="เที่ยวไทย เที่ยวต่างประเทศ ทะเล ภูเขา เกาะ น้ำตก ดำน้ำ สายการบิน">
+								<em class="iconwrap"><span class="icon-roommenu icon-blueplanet"></span></em>
+								<span class="title">บลูแพลนเน็ต</span><br/>
+								<span class="desc" >เที่ยวไทย เที่ยวต่างประเทศ ทะเล ภูเขา เกาะ น้ำตก ดำน้ำ สายการบิน</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+                                                        <a href="/forum/tvshow" title="ละคร นักแสดง ซีรี่ส์ รายการโทรทัศน์ สถานีโทรทัศน์">
+								<em class="iconwrap"><span class="icon-roommenu icon-tv"></span></em>
+								<span class="title">บางขุนพรหม</span><br/>
+								<span class="desc">ละคร นักแสดง ซีรี่ส์ รายการโทรทัศน์ สถานีโทรทัศน์</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/pantip" title="ข้อเสนอแนะถึงพันทิป วิธีการใช้งานพันทิป กิจกรรมพันทิป">
+								<em class="iconwrap"><span class="icon-roommenu icon-pantipsmile"></span></em>
+								<span class="title">พันทิป</span><br/>
+								<span class="desc">ข้อเสนอแนะถึงพันทิป วิธีการใช้งานพันทิป กิจกรรมพันทิป</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/region" title="ภาคเหนือ ภาคอีสาน ภาคกลาง ภาคตะวันออก ภาคตะวันตก ภาคใต้">
+								<em class="iconwrap"><span class="icon-roommenu icon-thailandmap"></span></em>
+								<span class="title">ภูมิภาค</span><br/>
+								<span class="desc">ภาคเหนือ ภาคอีสาน ภาคกลาง ภาคตะวันออก ภาคตะวันตก ภาคใต้</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/mbk" title="โทรศัพท์มือถือ Smartphone Tablet iOS Android">
+								<em class="iconwrap"><span class="icon-roommenu icon-mbkphone"></span></em>
+								<span class="title">มาบุญครอง</span><br/>
+								<span class="desc">โทรศัพท์มือถือ Smartphone Tablet iOS Android</span>
+							</a>
+						</li>
+				<li class="submenu-room-item">
+							<a href="/forum" title="รวมกระทู้จากทุกห้อง">
+								<em class="iconwrap"><span class="icon-roommenu icon-pantipall"></span></em>
+								<span class="title">รวมมิตร</span><br/>
+								<span class="desc">รวมกระทู้จากทุกห้อง</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/ratchada" title="รถยนต์ มอเตอร์ไซค์ เครื่องเสียงรถยนต์ แต่งรถ การจราจร">
+								<em class="iconwrap"><span class="icon-roommenu icon-ratchadacar"></span></em>
+								<span class="title">รัชดา</span><br/>
+								<span class="desc">รถยนต์ มอเตอร์ไซค์ เครื่องเสียงรถยนต์ แต่งรถ การจราจร</span>
+							</a>
+						</li>
+ 
+					</ul><!-- ########## END column 3 ########## -->
+					<ul class="submenu-room-list space"><!-- ########## START column 4 ########## -->
+						<li class="submenu-room-item">
+							<a href="/forum/rajdumnern" title="การเมือง รัฐศาสตร์ กฎหมาย สภาผู้แทน รัฐบาล ฝ่ายค้าน พรรคการเมือง">
+								<em class="iconwrap"><span class="icon-roommenu icon-politics"></span></em>
+								<span class="title">ราชดำเนิน</span><br/>
+								<span class="desc">การเมือง รัฐศาสตร์ กฎหมาย สภาผู้แทน รัฐบาล ฝ่ายค้าน พรรคการเมือง</span>
+							</a>
+						</li>
+						<li class="submenu-room-item" title="กระทู้อื่นๆ ที่ไม่สังกัดห้องไหนเลย">
+							<a href="/forum/isolate">
+								<em class="iconwrap"><span class="icon-roommenu icon-isolatecoffee"></span></em>
+								<span class="title">ไร้สังกัด</span><br/>
+								<span class="desc">กระทู้อื่นๆ ที่ไม่สังกัดห้องไหนเลย</span>
+							</a>
+						</li>
+						<li class="submenu-room-item" title="กฎหมาย ปัญหาสังคม ปัญหาชีวิต เศรษฐกิจ คุ้มครองผู้บริโภค">
+							<a href="/forum/social">
+								<em class="iconwrap"><span class="icon-roommenu icon-megaphone"></span></em>
+								<span class="title">ศาลาประชาคม</span><br/>
+								<span class="desc">กฎหมาย ปัญหาสังคม ปัญหาชีวิต เศรษฐกิจ คุ้มครองผู้บริโภค</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/religious" title="ศาสนาพุทธ ศาสนาคริสต์ ศาสนาอิสลาม เที่ยววัด ทำบุญ">
+								<em class="iconwrap"><span class="icon-roommenu icon-religious"></span></em>
+								<span class="title">ศาสนา</span><br/>
+								<span class="desc">ศาสนาพุทธ ศาสนาคริสต์ ศาสนาอิสลาม เที่ยววัด ทำบุญ</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/supachalasai" title="กีฬา ฟุตบอล บาสเกตบอล มวยสากล กอล์ฟ จักรยาน นักกีฬา">
+								<em class="iconwrap"><span class="icon-roommenu icon-sports"></span></em>
+								<span class="title">ศุภชลาศัย</span><br/>
+								<span class="desc">กีฬา ฟุตบอล บาสเกตบอล มวยสากล กอล์ฟ จักรยาน นักกีฬา</span>
+							</a>
+						</li>
+
+			<li class="submenu-room-item">
+							<a href="/forum/siam" title="ชีวิตวัยรุ่น การเรียน โรงเรียน มหาวิทยาลัย ความรักวัยรุ่น เกม">
+								<em class="iconwrap"><span class="icon-roommenu icon-siamchat"></span></em>
+								<span class="title">สยามสแควร์</span><br/>
+								<span class="desc">ชีวิตวัยรุ่น การเรียน โรงเรียน มหาวิทยาลัย ความรักวัยรุ่น เกม</span>
+							</a>
+						</li>
+
+					<li class="submenu-room-item">
+							<a href="/forum/lumpini" title="สุขภาพกาย สุขภาพจิต โรคมะเร็ง โรคไมเกรน โรคภูมิแพ้ ปวดประจำเดือน">
+								<em class="iconwrap"><span class="icon-roommenu icon-lumpinihealth"></span></em>
+								<span class="title">สวนลุมพินี</span><br/>
+								<span class="desc">สุขภาพกาย สุขภาพจิต โรคมะเร็ง โรคไมเกรน โรคภูมิแพ้ ปวดประจำเดือน</span>
+							</a>
+						</li>
+
+ 
+
+					</ul><!-- ########## END column 4 ########## -->
+                    <!-- ########## START column 5 ########## -->
+           			<ul class="submenu-room-list">
+	<li class="submenu-room-item">
+							<a href="/forum/sinthorn" title="หุ้น เศรษฐกิจ การลงทุน LTF RMF ธนาคาร เงินตราต่างประเทศ">
+								<em class="iconwrap"><span class="icon-roommenu icon-sinthornchart"></span></em>
+								<span class="title">สินธร</span><br/>
+								<span class="desc">หุ้น เศรษฐกิจ การลงทุน LTF RMF ธนาคาร เงินตราต่างประเทศ</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/silom" title="การบริหารจัดการ การตลาด ทรัพยากรบุคคล งานขาย SME ภาษีนิติบุคคล">
+								<em class="iconwrap"><span class="icon-roommenu icon-silomman"></span></em>
+								<span class="title">สีลม</span><br/>
+								<span class="desc">การบริหารจัดการ การตลาด ทรัพยากรบุคคล งานขาย SME ภาษีนิติบุคคล</span>
+							</a>
+						</li>
+			<li class="submenu-room-item">
+							<a href="/forum/wahkor" title="วิทยาศาสตร์ วิศวกรรม เทคโนโลยี ฟิสิกส์ ดาราศาสตร์ อวกาศ">
+								<em class="iconwrap"><span class="icon-roommenu icon-scilabs"></span></em>
+								<span class="title">หว้ากอ</span><br/>
+								<span class="desc">วิทยาศาสตร์ วิศวกรรม เทคโนโลยี ฟิสิกส์ ดาราศาสตร์ อวกาศ</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/library" title="หนังสือ หนังสือนิยาย ภาษาไทย ภาษาจีน ภาษาอังกฤษ ปรัชญา ประวัติศาสตร์">
+								<em class="iconwrap"><span class="icon-roommenu icon-librarybook"></span></em>
+								<span class="title">ห้องสมุด</span><br/>
+								<span class="desc">หนังสือ หนังสือนิยาย ภาษาไทย ภาษาจีน ภาษาอังกฤษ ปรัชญา ประวัติศาสตร์</span>
+							</a>
+						</li>
+		<li class="submenu-room-item">
+							<a href="/forum/art" title="ศิลปะ ภาพวาด ประวัติศาสตร์ศิลป์ สื่อประสม Graphic Design">
+								<em class="iconwrap"><span class="icon-roommenu icon-art"></span></em>
+								<span class="title">หอศิลป์</span><br/>
+								<span class="desc">ศิลปะ ภาพวาด ประวัติศาสตร์ศิลป์ สื่อประสม Graphic Design</span>
+							</a>
+						</li>
+					</ul><!-- ########## END column 5 ########## -->
+				</div>
+				</div>
+			</div><!-- panel #1 -->
+<!-- ########## End Room Menu ########## -->	
+			<div id="panel2">
+	
+				<div class="container-outer-z ">
+					<div class="submenu-room">
+						<ul class="submenu-room-list normal">
+							<li class="submenu-room-item submenu-room-item-title ">
+								เว็บไซต์ในเครือ
+							</li>
+							<li class="submenu-room-item products">
+								<a title="บันทึกได้อิสระดังใจคุณ เว็บไซต์ส่วนตัว ที่ผู้สร้าง(blogger) จัดทำขึ้นเพื่อเป็นที่บอกเล่าเรื่องราว สิ่งต่างๆ ที่เกิดขึ้นในชีวิตประจำวันรวมทั้งแลกเปลี่ยนความคิดเห็น เสนอบทความใหม่ๆ" href="http://www.bloggang.com/">
+									<em class="iconwrap"><span class="icon-pantip-products bloggang-small"></span></em>
+									<span class="title">BlogGang</span><br>
+										<span class="desc">บันทึกได้อิสระดังใจคุณ เว็บไซต์ส่วนตัว ที่ผู้สร้าง(blogger) จัดทำขึ้นเพื่อเป็นที่บอกเล่าเรื่องราว</span>
+								</a>
+							</li>
+							<li class="submenu-room-item products">
+								<a title="สื่อกลางซื้อขายออนไลน์ ฟรี!! ทุกสิ่งที่ต้องการซื้อขาย สินค้า หรือบริการ เพียงคลิกลงประกาศ ง่าย รวดเร็ว ได้ผลจริง" href="http://www.pantipmarket.com/">
+									<em class="iconwrap"><span class="icon-pantip-products pantipmarket-small"></span></em>
+									<span class="title">Pantip Market</span><br>
+										<span class="desc">สื่อกลางซื้อขายออนไลน์ ฟรี!! ทุกสิ่งที่ต้องการซื้อขาย สินค้า หรือบริการ เพียงคลิกลงประกาศ ง่าย รวดเร็ว ได้ผลจริง</span>
+								</a>
+							</li>
+							<li class="submenu-room-item products">
+								<a title="ให้ท่าน สร้าง และบริหาร ชุมชนออนไลน์ ของท่านเอง ได้อย่างสะดวก รวดเร็ว และง่ายดาย" href="http://www.pantown.com/">
+									<em class="iconwrap"><span class="icon-pantip-products pantown-small"></span></em>
+									<span class="title">Pantown</span><br>
+										<span class="desc">ให้ท่าน สร้าง และบริหาร ชุมชนออนไลน์ ของท่านเอง ได้อย่างสะดวก รวดเร็ว และง่ายดาย</span>
+								</a>
+							</li>
+						</ul>
+<!-- ########## Start Mobile App & CSR ########## -->
+
+		<ul class="submenu-room-list normal">
+						<li class="submenu-room-item submenu-room-item-title">
+							เอาด้วยช่วยโลกกัน
+						</li>
+						<li class="submenu-room-item pantip-product products"><a href="http://pantip.com/csr" title="เอาด้วยช่วยโลกกัน" target="_blank"><img src="http://ptcdn.info/images/banner-csr.jpg"></a></li>
+                       <li class="submenu-room-item submenu-room-item-title">
+							 Pantip Mobile App
+						</li>
+						<li class="submenu-room-item pantip-product products"><a href="http://pantip.com/app" title="Pantip Mobile App" target="_blank"><img src="http://ptcdn.info/images/banner-app.jpg"></a></li>
+		</ul>
+<!-- ########## End Mobile App & CSR ########## -->
+						<ul class="submenu-room-list submenu-room-list-txt normal">
+							<li class="submenu-room-item submenu-room-item-title">
+								เกี่ยวกับเรา
+							</li>
+							<li class="submenu-room-item">
+								<a href="/about/tos">
+									- กฎ กติกา และมารยาท
+								</a>
+							</li>
+							<li class="submenu-room-item">
+								<a href="/about/defamation">
+									- คำแนะนำการโพสต์แสดงความเห็น
+								</a>
+							</li>
+							<li class="submenu-room-item">
+								<a href="/about/contact">
+									- ติดต่อทีมงาน Pantip
+								</a>
+							</li>
+							<li class="submenu-room-item">
+								<a href="/advertising">
+									- ติดต่อลงโฆษณา
+								</a>
+							</li>
+							<li class="submenu-room-item">
+								<a href="/about/job">
+									- ร่วมงานกับ Pantip
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				
+			</div><!-- panel #2 -->
+	</div>
+		</header>
+		<!-- ########## end header clone ########## -->
+		<!-- ########## start Banner ########## -->
+		<div class="samgee logo-banner doodle-banner" style="background:url('http://ptcdn.info/doodle/quotes/quote_bg.png') repeat top center;">			<div class="container-outer ">
+				<div class="doodle-clickarea" title="ความสุขขึ้นอยู่กับตัวเราเอง"></div>				<!-- ########## start Header ########## -->
+				<div class="header">
+					<div class="search-wrap">
+						<!------------- Smart Search Form ------------->
+												<form action="http://search.pantip.com/ss" target="_blank">
+						  <div>
+							<input type="hidden" name="s" value="a" />
+							<input type="hidden" name="nms" value="1"/>
+							<input type="hidden" name="sa" value="Smart Search"/>
+							<input type="text" name="q" size="55" id="search-box" class="smart-search-input" placeholder="Smart Search"/>
+						
+						  </div>
+						</form>
+					</div>
+					<div class="header-outer">
+						<ul class="global-navigate">
+														<li><a href="http://pantip.com/">หน้าแรก<em></em></a></li>
+							<li id="menu-main-bar2">
+								<a href="javascript:void(0);">เลือกห้อง&nbsp;<small>&#9660;</small></a>
+							</li>
+							<li><a href="http://pantip.com/tags">แท็ก</a>
+							<li id="menu-main-bar3">
+								<a href="javascript:void(0);">อื่นๆ&nbsp;<small>&#9660;</small></a>
+							</li>
+						</ul>
+								<ul class="my-menu">
+									<li><a href="http://pantip.com/forum/new_topic"><span class="icon icon-new-post"></span>&nbsp;&nbsp;ตั้งกระทู้<em></em></a></li>
+																	<li>
+											<a href="http://pantip.com/login" id="login-btn">เข้าสู่ระบบ&nbsp;/&nbsp;สมัครสมาชิก<small></small></a>
+										</li>
+								</ul>
+							</div>
+						</div>
+						<!-- ########## end Header ########## -->
+						<a href="http://pantip.com/">
+							<center><img src="http://ptcdn.info/doodle/quotes/q2014-08-23.png" alt="" border="0"/></center>						</a>
+			</div>
+		</div>
+		<!-- ########## end Banner ########## -->
+		
+		
+		
+		<!-- ########## start Submenu ########## -->
+		<script>
+			jQuery(document).ready(function () {
+				jQuery('#menu-main-bar2').click(function() {
+					//jQuery.fx.off = true
+					jQuery('.menu-two').hide();
+					jQuery('.menu-one').slideToggle('fast');
+				});
+				jQuery('#menu-main-bar3').click(function() {
+					//jQuery.fx.off = true
+					jQuery('.menu-one').hide();
+					jQuery('.menu-two').slideToggle('fast');
+					
+				});
+			});
+		</script>
+		<div class="expand-submenu menu-two">
+			<div class="container-outer ">
+				<div class="submenu-room">
+					<ul class="submenu-room-list normal">
+						<li class="submenu-room-item submenu-room-item-title ">
+							เว็บไซต์ในเครือ
+						</li>
+						<li class="submenu-room-item products">
+							<a href="http://www.bloggang.com/" title="บันทึกได้อิสระดังใจคุณ เว็บไซต์ส่วนตัว ที่ผู้สร้าง(blogger) จัดทำขึ้นเพื่อเป็นที่บอกเล่าเรื่องราว สิ่งต่างๆ ที่เกิดขึ้นในชีวิตประจำวันรวมทั้งแลกเปลี่ยนความคิดเห็น เสนอบทความใหม่ๆ">
+								<em class="iconwrap"><span class="icon-pantip-products bloggang-small"></span></em>
+								<span class="title">BlogGang</span><br/>
+								<span class="desc">บันทึกได้อิสระดังใจคุณ เว็บไซต์ส่วนตัว ที่ผู้สร้าง(blogger) จัดทำขึ้นเพื่อเป็นที่บอกเล่าเรื่องราว</span>
+							</a>
+						</li>
+						<li class="submenu-room-item products">
+							<a href="http://www.pantipmarket.com/" title="สื่อกลางซื้อขายออนไลน์ ฟรี!! ทุกสิ่งที่ต้องการซื้อขาย สินค้า หรือบริการ เพียงคลิกลงประกาศ ง่าย รวดเร็ว ได้ผลจริง">
+								<em class="iconwrap"><span class="icon-pantip-products pantipmarket-small"></span></em>
+								<span class="title">Pantip Market</span><br/>
+								<span class="desc">สื่อกลางซื้อขายออนไลน์ ฟรี!! ทุกสิ่งที่ต้องการซื้อขาย สินค้า หรือบริการ เพียงคลิกลงประกาศ ง่าย รวดเร็ว ได้ผลจริง</span>
+							</a>
+						</li>
+						<li class="submenu-room-item products">
+							<a href="http://www.pantown.com/" title="ให้ท่าน สร้าง และบริหาร ชุมชนออนไลน์ ของท่านเอง ได้อย่างสะดวก รวดเร็ว และง่ายดาย">
+								<em class="iconwrap"><span class="icon-pantip-products pantown-small"></span></em>
+								<span class="title">Pantown</span><br/>
+								<span class="desc">ให้ท่าน สร้าง และบริหาร ชุมชนออนไลน์ ของท่านเอง ได้อย่างสะดวก รวดเร็ว และง่ายดาย</span>
+							</a>
+						</li>
+					</ul>
+<!-- ########## Start Mobile App & CSR ########## -->
+
+		<ul class="submenu-room-list normal">
+						<li class="submenu-room-item submenu-room-item-title">
+							เอาด้วยช่วยโลกกัน
+						</li>
+						<li class="submenu-room-item pantip-product products"><a href="http://pantip.com/csr" title="เอาด้วยช่วยโลกกัน" target="_blank"><img src="http://ptcdn.info/images/banner-csr.jpg"></a></li>
+                       <li class="submenu-room-item submenu-room-item-title">
+							 Pantip Mobile App
+						</li>
+						<li class="submenu-room-item pantip-product products"><a href="http://pantip.com/app" title="Pantip Mobile App" target="_blank"><img src="http://ptcdn.info/images/banner-app.jpg"></a></li>
+		</ul>
+<!-- ########## End Mobile App & CSR ########## -->
+					<ul class="submenu-room-list submenu-room-list-txt normal">
+						<li class="submenu-room-item submenu-room-item-title">
+							เกี่ยวกับเรา
+						</li>
+						<li class="submenu-room-item">
+							<a href="/about/tos">
+								- กฎ กติกา และมารยาท
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/about/defamation">
+								- คำแนะนำการโพสต์แสดงความเห็น
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/about/contact">
+								- ติดต่อทีมงาน Pantip
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/advertising">
+								- ติดต่อลงโฆษณา
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/about/job">
+								- ร่วมงานกับ Pantip
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<span class="end-menu-two"></span>
+		
+		<div class="expand-submenu menu-one">
+			<div class="container-outer ">
+				<div class="submenu-room">
+					 <!-- ########## START column 1 ########## -->
+					<ul class="submenu-room-list">
+						<li class="submenu-room-item">
+							<a href="/forum/food" title="ร้านอาหาร สูตรอาหาร อาหารคาว อาหารหวาน เบเกอรี่ ไอศกรีม">
+								<em class="iconwrap"><span class="icon-roommenu icon-food"></span></em>
+								<span class="title">ก้นครัว</span><br/>
+								<span class="desc">ร้านอาหาร สูตรอาหาร อาหารคาว อาหารหวาน เบเกอรี่ ไอศกรีม</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/greenzone" title="อนุรักษ์สิ่งแวดล้อม อนุรักษ์พลังงาน Green Living การออกแบบเพื่อสิ่งแวดล้อม ผลิตภัณฑ์รักษ์โลก เกษตรอินทรีย์">
+								<em class="iconwrap"><span class="icon-roommenu icon-greenzone"></span></em>
+								<span class="title">กรีนโซน</span><br/>
+								<span class="desc">อนุรักษ์สิ่งแวดล้อม อนุรักษ์พลังงาน Green Living การออกแบบเพื่อสิ่งแวดล้อม ผลิตภัณฑ์รักษ์โลก เกษตรอินทรีย์</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/camera" title="กล้องถ่ายรูป กล้อง DSLR กล้องวิดีโอ เทคนิคการถ่ายรูป">
+								<em class="iconwrap"><span class="icon-roommenu icon-camera"></span></em>
+								<span class="title">กล้อง</span><br/>
+								<span class="desc">กล้องถ่ายรูป กล้อง DSLR กล้องวิดีโอ เทคนิคการถ่ายรูป</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/cartoon" title="การ์ตูนญี่ปุ่น การ์ตูนไทย การ์ตูนฝรั่ง อนิเมะ วาดการ์ตูน ของสะสมจากการ์ตูน คอสเพลย์">
+								<em class="iconwrap"><span class="icon-roommenu icon-cartoon"></span></em>
+								<span class="title">การ์ตูน</span><br/>
+								<span class="desc">การ์ตูนญี่ปุ่น การ์ตูนไทย การ์ตูนฝรั่ง อนิเมะ วาดการ์ตูน ของสะสมจากการ์ตูน คอสเพลย์</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/gallery" title="ภาพถ่ายบุคคล ภาพถ่ายทิวทัศน์ ภาพถ่ายมาโคร">
+								<em class="iconwrap"><span class="icon-roommenu icon-gallery"></span></em>
+								<span class="title">แกลเลอรี่</span><br/>
+								<span class="desc">ภาพถ่ายบุคคล ภาพถ่ายทิวทัศน์ ภาพถ่ายมาโคร</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/klaibann" title="เรียนต่อต่างประเทศ ทำงานต่างประเทศ วีซ่า">
+								<em class="iconwrap"><span class="icon-roommenu icon-klaiban"></span></em>
+								<span class="title">ไกลบ้าน</span><br/>
+								<span class="desc">เรียนต่อต่างประเทศ ทำงานต่างประเทศ วีซ่า</span>
+							</a>
+						</li>
+						<li class="submenu-room-item" title="สัตว์เลี้ยง สุนัข แมว ต้นไม้ จัดสวน ของสะสม งานฝีมือ เกษตรกรรม">
+							<a href="/forum/jatujak">
+								<em class="iconwrap"><span class="icon-roommenu icon-pet"></span></em>
+								<span class="title">จตุจักร</span><br/>
+								<span class="desc">สัตว์เลี้ยง สุนัข แมว ต้นไม้ จัดสวน ของสะสม งานฝีมือ เกษตรกรรม</span>
+							</a>
+						</li>
+ 
+					</ul><!-- ########## END column 1 ########## -->
+                    <!-- ########## START column 2 ########## -->
+					<ul class="submenu-room-list space">
+						<li class="submenu-room-item" title="นักร้องนักดนตรี เพลง เครื่องดนตรี คอนเสิร์ต มิวสิควิดีโอ">
+							<a href="/forum/chalermkrung">
+								<em class="iconwrap"><span class="icon-roommenu icon-music"></span></em>
+								<span class="title">เฉลิมกรุง</span><br/>
+								<span class="desc">นักร้องนักดนตรี เพลง เครื่องดนตรี คอนเสิร์ต มิวสิควิดีโอ</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/chalermthai" title="ภาพยนตร์ ดาราภาพยนตร์ ค่ายหนัง เทศกาลหนัง หนังสั้น">
+								<em class="iconwrap"><span class="icon-roommenu icon-film"></span></em>
+								<span class="title">เฉลิมไทย</span><br/>
+								<span class="desc">ภาพยนตร์ ดาราภาพยนตร์ ค่ายหนัง เทศกาลหนัง หนังสั้น</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/family" title="ครอบครัว ตั้งครรภ์ ตั้งชื่อลูก การเลี้ยงลูก การสอนลูก">
+								<em class="iconwrap"><span class="icon-roommenu icon-family"></span></em>
+								<span class="title">ชานเรือน</span><br/>
+								<span class="desc">ครอบครัว ตั้งครรภ์ ตั้งชื่อลูก การเลี้ยงลูก การสอนลูก</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/home" title="บ้าน คอนโดมิเนียม ตกแต่งบ้าน เฟอร์นิเจอร์ เครื่องใช้ไฟฟ้า เครื่องครัว">
+								<em class="iconwrap"><span class="icon-roommenu icon-home"></span></em>
+								<span class="title">ชายคา</span><br/>
+								<span class="desc">บ้าน คอนโดมิเนียม ตกแต่งบ้าน เฟอร์นิเจอร์ เครื่องใช้ไฟฟ้า เครื่องครัว</span>
+							</a>
+						</li>
+				<li class="submenu-room-item">
+							<a href="/forum/siliconvalley" title="คอมมือใหม่ อินเทอร์เน็ต ซอฟต์แวร์ ฮาร์ดแวร์ เกม เขียนโปรแกรม Gadget">
+								<em class="iconwrap"><span class="icon-roommenu icon-silicon"></span></em>
+								<span class="title">ซิลิคอนวัลเลย์</span><br/>
+								<span class="desc">คอมมือใหม่ อินเทอร์เน็ต ซอฟต์แวร์ ฮาร์ดแวร์ เกม เขียนโปรแกรม Gadget</span>
+							</a>
+						</li>
+							<li class="submenu-room-item">
+							<a href="/forum/beauty" title="เครื่องสำอาง เสริมสวย แฟชั่น เครื่องประดับ ลดความอ้วน">
+								<em class="iconwrap"><span class="icon-roommenu icon-beauty"></span></em>
+								<span class="title">โต๊ะเครื่องแป้ง</span><br/>
+								<span class="desc">เครื่องสำอาง เสริมสวย แฟชั่น เครื่องประดับ ลดความอ้วน</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/writer" title="แต่งนิยาย เรื่องสั้น กลอน นิทาน">
+								<em class="iconwrap"><span class="icon-roommenu icon-writer"></span></em>
+								<span class="title">ถนนนักเขียน</span><br/>
+								<span class="desc">แต่งนิยาย เรื่องสั้น กลอน นิทาน</span>
+							</a>
+						</li>
+ 
+					</ul><!-- ########## END column 2 ########## -->
+                    <!-- ########## START column 3 ########## -->
+					<ul class="submenu-room-list">
+						<li class="submenu-room-item">
+							<a href="/forum/blueplanet"title="เที่ยวไทย เที่ยวต่างประเทศ ทะเล ภูเขา เกาะ น้ำตก ดำน้ำ สายการบิน">
+								<em class="iconwrap"><span class="icon-roommenu icon-blueplanet"></span></em>
+								<span class="title">บลูแพลนเน็ต</span><br/>
+								<span class="desc" >เที่ยวไทย เที่ยวต่างประเทศ ทะเล ภูเขา เกาะ น้ำตก ดำน้ำ สายการบิน</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/tvshow" title="ละคร นักแสดง ซีรี่ส์ รายการโทรทัศน์ สถานีโทรทัศน์">
+								<em class="iconwrap"><span class="icon-roommenu icon-tv"></span></em>
+								<span class="title">บางขุนพรหม</span><br/>
+								<span class="desc">ละคร นักแสดง ซีรี่ส์ รายการโทรทัศน์ สถานีโทรทัศน์</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/pantip" title="ข้อเสนอแนะถึงพันทิป วิธีการใช้งานพันทิป กิจกรรมพันทิป">
+								<em class="iconwrap"><span class="icon-roommenu icon-pantipsmile"></span></em>
+								<span class="title">พันทิป</span><br/>
+								<span class="desc">ข้อเสนอแนะถึงพันทิป วิธีการใช้งานพันทิป กิจกรรมพันทิป</span>
+							</a>
+						</li>
+						<li class="submenu-room-item">
+							<a href="/forum/region" title="ภาคเหนือ ภาคอีสาน ภาคกลาง ภาคตะวันออก ภาคตะวันตก ภาคใต้">
+								<em class="iconwrap"><span class="icon-roommenu icon-thailandmap"></span></em>
+								<span class="title">ภูมิภาค</span><br/>
+								<span class="desc">ภาคเหนือ ภาคอีสาน ภาคกลาง ภาคตะวันออก ภาคตะวันตก ภาคใต้</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/mbk" title="โทรศัพท์มือถือ Smartphone Tablet iOS Android">
+								<em class="iconwrap"><span class="icon-roommenu icon-mbkphone"></span></em>
+								<span class="title">มาบุญครอง</span><br/>
+								<span class="desc">โทรศัพท์มือถือ Smartphone Tablet iOS Android</span>
+							</a>
+						</li>
+				<li class="submenu-room-item">
+							<a href="/forum" title="รวมกระทู้จากทุกห้อง">
+								<em class="iconwrap"><span class="icon-roommenu icon-pantipall"></span></em>
+								<span class="title">รวมมิตร</span><br/>
+								<span class="desc">รวมกระทู้จากทุกห้อง</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/ratchada" title="รถยนต์ มอเตอร์ไซค์ เครื่องเสียงรถยนต์ แต่งรถ การจราจร">
+								<em class="iconwrap"><span class="icon-roommenu icon-ratchadacar"></span></em>
+								<span class="title">รัชดา</span><br/>
+								<span class="desc">รถยนต์ มอเตอร์ไซค์ เครื่องเสียงรถยนต์ แต่งรถ การจราจร</span>
+							</a>
+						</li>
+ 
+					</ul><!-- ########## END column 3 ########## -->
+					<ul class="submenu-room-list space"><!-- ########## START column 4 ########## -->
+						<li class="submenu-room-item">
+							<a href="/forum/rajdumnern" title="การเมือง รัฐศาสตร์ กฎหมาย สภาผู้แทน รัฐบาล ฝ่ายค้าน พรรคการเมือง">
+								<em class="iconwrap"><span class="icon-roommenu icon-politics"></span></em>
+								<span class="title">ราชดำเนิน</span><br/>
+								<span class="desc">การเมือง รัฐศาสตร์ กฎหมาย สภาผู้แทน รัฐบาล ฝ่ายค้าน พรรคการเมือง</span>
+							</a>
+						</li>
+						<li class="submenu-room-item" title="กระทู้อื่นๆ ที่ไม่สังกัดห้องไหนเลย">
+							<a href="/forum/isolate">
+								<em class="iconwrap"><span class="icon-roommenu icon-isolatecoffee"></span></em>
+								<span class="title">ไร้สังกัด</span><br/>
+								<span class="desc">กระทู้อื่นๆ ที่ไม่สังกัดห้องไหนเลย</span>
+							</a>
+						</li>
+						<li class="submenu-room-item" title="กฎหมาย ปัญหาสังคม ปัญหาชีวิต เศรษฐกิจ คุ้มครองผู้บริโภค">
+							<a href="/forum/social">
+								<em class="iconwrap"><span class="icon-roommenu icon-megaphone"></span></em>
+								<span class="title">ศาลาประชาคม</span><br/>
+								<span class="desc">กฎหมาย ปัญหาสังคม ปัญหาชีวิต เศรษฐกิจ คุ้มครองผู้บริโภค</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/religious" title="ศาสนาพุทธ ศาสนาคริสต์ ศาสนาอิสลาม เที่ยววัด ทำบุญ">
+								<em class="iconwrap"><span class="icon-roommenu icon-religious"></span></em>
+								<span class="title">ศาสนา</span><br/>
+								<span class="desc">ศาสนาพุทธ ศาสนาคริสต์ ศาสนาอิสลาม เที่ยววัด ทำบุญ</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/supachalasai" title="กีฬา ฟุตบอล บาสเกตบอล มวยสากล กอล์ฟ จักรยาน นักกีฬา">
+								<em class="iconwrap"><span class="icon-roommenu icon-sports"></span></em>
+								<span class="title">ศุภชลาศัย</span><br/>
+								<span class="desc">กีฬา ฟุตบอล บาสเกตบอล มวยสากล กอล์ฟ จักรยาน นักกีฬา</span>
+							</a>
+						</li>
+
+			<li class="submenu-room-item">
+							<a href="/forum/siam" title="ชีวิตวัยรุ่น การเรียน โรงเรียน มหาวิทยาลัย ความรักวัยรุ่น เกม">
+								<em class="iconwrap"><span class="icon-roommenu icon-siamchat"></span></em>
+								<span class="title">สยามสแควร์</span><br/>
+								<span class="desc">ชีวิตวัยรุ่น การเรียน โรงเรียน มหาวิทยาลัย ความรักวัยรุ่น เกม</span>
+							</a>
+						</li>
+
+					<li class="submenu-room-item">
+							<a href="/forum/lumpini" title="สุขภาพกาย สุขภาพจิต โรคมะเร็ง โรคไมเกรน โรคภูมิแพ้ ปวดประจำเดือน">
+								<em class="iconwrap"><span class="icon-roommenu icon-lumpinihealth"></span></em>
+								<span class="title">สวนลุมพินี</span><br/>
+								<span class="desc">สุขภาพกาย สุขภาพจิต โรคมะเร็ง โรคไมเกรน โรคภูมิแพ้ ปวดประจำเดือน</span>
+							</a>
+						</li>
+
+ 
+
+					</ul><!-- ########## END column 4 ########## -->
+                    <!-- ########## START column 5 ########## -->
+           			<ul class="submenu-room-list">
+	<li class="submenu-room-item">
+							<a href="/forum/sinthorn" title="หุ้น เศรษฐกิจ การลงทุน LTF RMF ธนาคาร เงินตราต่างประเทศ">
+								<em class="iconwrap"><span class="icon-roommenu icon-sinthornchart"></span></em>
+								<span class="title">สินธร</span><br/>
+								<span class="desc">หุ้น เศรษฐกิจ การลงทุน LTF RMF ธนาคาร เงินตราต่างประเทศ</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/silom" title="การบริหารจัดการ การตลาด ทรัพยากรบุคคล งานขาย SME ภาษีนิติบุคคล">
+								<em class="iconwrap"><span class="icon-roommenu icon-silomman"></span></em>
+								<span class="title">สีลม</span><br/>
+								<span class="desc">การบริหารจัดการ การตลาด ทรัพยากรบุคคล งานขาย SME ภาษีนิติบุคคล</span>
+							</a>
+						</li>
+			<li class="submenu-room-item">
+							<a href="/forum/wahkor" title="วิทยาศาสตร์ วิศวกรรม เทคโนโลยี ฟิสิกส์ ดาราศาสตร์ อวกาศ">
+								<em class="iconwrap"><span class="icon-roommenu icon-scilabs"></span></em>
+								<span class="title">หว้ากอ</span><br/>
+								<span class="desc">วิทยาศาสตร์ วิศวกรรม เทคโนโลยี ฟิสิกส์ ดาราศาสตร์ อวกาศ</span>
+							</a>
+						</li>
+					<li class="submenu-room-item">
+							<a href="/forum/library" title="หนังสือ หนังสือนิยาย ภาษาไทย ภาษาจีน ภาษาอังกฤษ ปรัชญา ประวัติศาสตร์">
+								<em class="iconwrap"><span class="icon-roommenu icon-librarybook"></span></em>
+								<span class="title">ห้องสมุด</span><br/>
+								<span class="desc">หนังสือ หนังสือนิยาย ภาษาไทย ภาษาจีน ภาษาอังกฤษ ปรัชญา ประวัติศาสตร์</span>
+							</a>
+						</li>
+		<li class="submenu-room-item">
+							<a href="/forum/art" title="ศิลปะ ภาพวาด ประวัติศาสตร์ศิลป์ สื่อประสม Graphic Design">
+								<em class="iconwrap"><span class="icon-roommenu icon-art"></span></em>
+								<span class="title">หอศิลป์</span><br/>
+								<span class="desc">ศิลปะ ภาพวาด ประวัติศาสตร์ศิลป์ สื่อประสม Graphic Design</span>
+							</a>
+						</li>
+					</ul><!-- ########## END column 5 ########## -->
+				</div>
+			</div>
+		</div>
+		<span class="end-menu-one"></span>
+		<!-- ########## end Submenu ########## -->
+		<div class="content">
+				<div class="container-outer">
+					<div class="container-inner">
+						<div class="callback-status"><strong>ไม่พบหน้าที่คุณต้องการ</strong></div>
+					</div>
+				</div>
+		</div>
+	<div class="footer">
+		<div class="transparent-border ">
+			<div class="light-border"></div>
+			<div class="dark-border"></div>
+		</div>
+		<div class="container-outer  ">
+			<div class="footer-inner">
+				<div class="contact-pantip">
+					<a href="/about/contact">ติดต่อทีมงานพันทิป</a>&nbsp;|&nbsp;
+					<a href="/advertising">ติดต่อลงโฆษณา</a>
+				</div>
+				<div class="pantip-partner">
+					<a href="http://www.bloggang.com/" target="_blank">BlogGang</a>&nbsp;|&nbsp;
+					<a href="http://www.pantipmarket.com/" target="_blank">PantipMarket</a>&nbsp;|&nbsp;
+					<a href="http://www.pantown.com/" target="_blank">Pantown</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
